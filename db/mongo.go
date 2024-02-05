@@ -26,6 +26,6 @@ func InitMongoDB() {
 	}
 
 	Client = client
-	Database = client.Database("your_database_name")         // Replace "your_database_name" with your actual database name
-	Collection = Database.Collection("your_collection_name") // Replace "your_collection_name" with your actual collection name
+	Database = client.Database("advancedtodo")
+	Collection = Database.Collection("advancedtodo")
 }
