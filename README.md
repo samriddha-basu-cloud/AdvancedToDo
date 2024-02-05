@@ -1,8 +1,9 @@
 # AdvancedToDo
 
-<img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" alt="Go Logo" width="100" height="100">
-<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB Logo" width="100" height="100">
-<img src="https://jwt.io/img/pic_logo.svg" alt="JWT Logo" width="100" height="100">
+[![Go Badge](https://img.shields.io/badge/Go-1.17-blue?logo=go&style=flat)](https://golang.org/)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb&style=flat)](https://www.mongodb.com/)
+[![JWT Badge](https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-orange?logo=jwt.io&style=flat)](https://jwt.io/)
+[![Twilio Badge](https://img.shields.io/badge/Twilio-voice%20calling-red?logo=twilio&style=flat)](https://www.twilio.com/)
 
 AdvancedToDo is a task management application built using Go, MongoDB, JWT authentication, and Twilio for voice calling reminders.
 
